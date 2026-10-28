@@ -139,11 +139,6 @@ docs/
 README.md
 ```
 
-### Images this README expects
-
-Save your pictures in `docs/images/` with these names and they will appear automatically:
-
-`hero.jpg`, `demo.gif`, `schematic.png`, `pcb_layout.png`, `pcb_front.png`, `pcb_back.png`, `3d_front.png`, `3d_back.png`, `final_model.png`
 
 ## Firmware plan
 
