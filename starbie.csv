@@ -1,6 +1,0 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","#"
-"U3","1","Display_128x64_096_I2C","","","","Imported Parts:Display_128x64_096_I2C","","1"
-"U2","1","MPU6050","","","","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf","2"
-"U1","1","XIAO-ESP32-C3-SMD","","","","Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD","","3"
-"SW1,SW2","2","SW_Push","","","","Button_Switch_THT:SW_NKK_GW12LJP","","4"
-"D1,D2","2","LED_ARGB","","","","Imported Parts:Display_128x64_096_I2C","","5"
