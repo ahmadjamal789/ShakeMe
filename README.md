@@ -1,4 +1,4 @@
-# Shakedown (working title)
+# ShakeMe
 
 A handheld, battery-powered display that behaves like a solute in a solvent. Left at rest, the particles on screen settle to the bottom. Shake or move it, and they are kicked up and spread through the whole volume. When the motion stops, they slowly resettle.
 
